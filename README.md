@@ -1,1 +1,1 @@
-# trilogy
+# The Trilogy
